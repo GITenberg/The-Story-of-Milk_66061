@@ -1,11 +1,16 @@
 _repo: The-Story-of-Milk_66061
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66061-h/images/cover.jpg
 creator:
   author:
     agent_name: Frederiksen, Johan D.
     gutenberg_agent_id: '53623'
     url: http://www.gutenberg.org/2009/agents/53623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66061#The-Story-of-Milk
 gutenberg_issued: '2021-08-14'
 gutenberg_type: Text
 identifiers:
